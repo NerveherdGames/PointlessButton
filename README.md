@@ -1,4 +1,4 @@
 # PointlessButton
 PointlessButton android app repository
 
-Tarinan sekä tarinanteko-ohjeet täältä
+Tarina sekä tarinanteko-ohjeet täältä
