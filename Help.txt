@@ -1,0 +1,35 @@
+
+	
+		Pointless Button  -  The Story - Help
+		
+		Ideoita:
+			What are you going to push now? -nappi h‰vi‰‰ -> pystyy painamaan mist‰ tahansa niin etenee -> 10 taps -> "Why are you still tapping..."
+
+			Ylim‰‰r‰isi‰ parametrej‰, kuten fade-in ja -out aika
+		
+		Event id and parameters
+		
+			*<parameter>  vaihtoehtoinen parametri, jos haluaa lis‰t‰
+				HUOM! Jos vaihtoehtoinen parametri on toisen vaihtoehtoisen j‰lkeen, t‰ytyy 
+				edelt‰v‰t parametrit myˆs t‰ytt‰‰
+		
+			1:<click count>:<text to show>:*<fade_in_time> //n‰ytt‰‰ tekstin @ click count
+			2:<click count>:*<fade_out_time> // piilottaa tekstin @ click count
+			3:<click count>:<image to show>:*<fade_in_time> //n‰ytt‰‰ kuvan @ click count
+			4:<click count>:*<fade_out_time> // piilottaa kuvan @ click count
+		
+		Esimerkki 1
+		
+		n‰ytet‰‰n teksti "Hello" ensimm‰isen painalluksen kohdalla
+		sen j‰lkeen piilotetaan teksti viidennen painalluksen kohdalla
+		
+		1:1:Hello
+		2:5
+		
+		esimerkki 2
+		
+		N‰ytet‰‰n taustalla "credits" kuva sadannen painalluksen kohdalla, jonka j‰lkeen piilotetaan 
+			se sadannenkymmenennen painalluksen kohdalla
+			
+		3:100:credits
+		4:110
