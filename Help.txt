@@ -20,13 +20,13 @@
 		
 		Esimerkki 1
 		
-		n‰ytet‰‰n teksti "Hello" ensimm‰isen painalluksen kohdalla
+		N‰ytet‰‰n teksti "Hello" ensimm‰isen painalluksen kohdalla
 		sen j‰lkeen piilotetaan teksti viidennen painalluksen kohdalla
 		
 		1:1:Hello
 		2:5
 		
-		esimerkki 2
+		Esimerkki 2
 		
 		N‰ytet‰‰n taustalla "credits" kuva sadannen painalluksen kohdalla, jonka j‰lkeen piilotetaan 
 			se sadannenkymmenennen painalluksen kohdalla
