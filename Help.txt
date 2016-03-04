@@ -5,7 +5,7 @@
 		Ideoita:
 			What are you going to push now? -nappi häviää -> pystyy painamaan mistä tahansa niin etenee -> 10 taps -> "Why are you still tapping..."
 
-			Ylimääräisiä parametrejä, kuten fade-in ja -out aika
+			Ylimääräisiä parametrejä, kuten fade-in ja -out aika, ylim. parametrit näytetään *<param> lailla
 		
 		Event id and parameters
 		
